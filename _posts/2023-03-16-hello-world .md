@@ -11,8 +11,6 @@ comments: true
 typora-root-url: ../../wwjwisdom.github.io
 math: false
 mermaid: true
-![img](/_posts/2023-03-16-hello-world%20.assets/u=3894632919,1468231539&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto.jpeg)
-
 ---
 
 # 感谢关注～ 
