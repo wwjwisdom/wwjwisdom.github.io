@@ -1,20 +1,17 @@
 ---
-title: 你好，世界！
-date: 2022-03-26 10:34:00 +0800
-categories: [随笔]
-tags: [生活]
+title: 我的第一篇博客
+date: 2023-03-16 08:53:00 +0800
+categories:[anger] 
+tags: [bd]
 pin: true
-author: 湾区书记汤姆
+author: wwjwisdom
 
 toc: true
 comments: true
-typora-root-url: ../../tomstillcoding.github.io
+typora-root-url: ../../wwjwisdom.github.io
 math: false
 mermaid: true
 
-image:
-  src: /assets/blog_res/2021-03-30-hello-world.assets/huoshan.jpg
-  alt: 签约成功
 
 ---
 
@@ -29,6 +26,5 @@ int main(){
 }
 ```
 
-![image-20220327184021601](/assets/blog_res/2021-03-30-hello-world.assets/image-20220327184021601.png)
+![img](/_posts/2023-03-16-hello-world%20.assets/u=3894632919,1468231539&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto.jpeg)
 
-![Screen Shot 2022-04-03 at 11.46.41 AM](/assets/blog_res/2021-03-30-hello-world.assets/Screen Shot 2022-04-03 at 11.46.41 AM.png)
